@@ -27,7 +27,7 @@ Execute the application using the Java runtime environment (java):
 
 Bash
 java -cp zxing-core-3.X.X.jar:. org.wiktoria.Main
-Używaj kodu z rozwagą.
+
 
 Usage
 The application will launch a window with a central area for displaying the generated QR code. Enter a URL in the text field and click "Generate QR" to create a QR code for that URL. You can then use the "Save QR" button to save the generated image to your desired location.
