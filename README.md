@@ -2,7 +2,8 @@
 
 This Java application allows you to easily convert URLs into QR codes, providing a user-friendly interface to generate and save the QR images.
 
-![image](https://github.com/user-attachments/assets/4a68b60d-295e-4da9-9254-b9776241e79b)
+![image](https://github.com/user-attachments/assets/ad0a85e4-f6be-43f7-a353-ff918a2e73f9)
+
 
 
 
