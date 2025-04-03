@@ -1,18 +1,18 @@
+<img src="https://github.com/user-attachments/assets/70202176-95f4-4c7e-8aed-75f1c61aa80e" width="70" align="left" style="margin-right: 10px;">
+
 # **QR Code Generator - Java Application**
+
+<br clear="left">
 
 This Java application allows you to easily convert URLs into QR codes, providing a user-friendly interface to generate and save the QR images.
 
 ![image](https://github.com/user-attachments/assets/ad0a85e4-f6be-43f7-a353-ff918a2e73f9)
-
-
-
 
 ---
 
 ## **Features**  
 - **Generate QR code**: Enter a valid URL and click the **"Generate QR"** button to create a QR code representation.  
 - **Save QR code**: Specify a file name and location using the **"Save QR"** button to save the generated QR image.  
-
 ---
 
 ## **Requirements**
